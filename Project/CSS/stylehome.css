@@ -1,11 +1,13 @@
 body{
-
+margin: 1%;
+padding: 1%;
 }
 header{
 	text-align: center;
 	/*font-variant: small-caps;*/
 	color: #ffffff;
 	width: 100%;
+	padding: 1%;
 
 }
 header h1{
@@ -14,7 +16,7 @@ header h1{
 }
 nav a{
 	display: inline-block;
-
+	padding: 1%;
 	width: 12%;
 	height: 7%;
 	min-height: 5%;
