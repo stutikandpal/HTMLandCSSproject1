@@ -58,3 +58,39 @@ section{
 	/*border: #ffffff solid 0px;
 	overflow: auto;*/
 }
+table{
+	margin: 5% 10%;
+	border:#ffffff hidden 2px;
+	text-align: center;
+	padding:2% 5%;
+}
+tr{
+	opacity: 0.7;
+}
+tr:hover{
+	opacity:1;
+}
+th,td{
+	font-family: arial;
+
+}
+td{
+	background-color: rgb(185,218,131);
+	text-align: center;
+	border: #ffffff solid 2px;
+	padding: 2%;
+}
+th{
+	border: #ffffff solid 2px;
+	padding: 2%;
+	border-bottom:#a3e932 solid 4px;
+	background-color: rgb(59,91,5);
+	border-color: #a3e932;
+	border-top-right-radius:5%; 
+	border-top-left-radius:5%;
+	color:#ffffff;
+	text-align: center;
+}
+th:first-child , td:first-child{
+	text-align: left;
+}
