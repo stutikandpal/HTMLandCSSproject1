@@ -8,11 +8,11 @@ header{
 	color: #ffffff;
 	width: 100%;
 	padding: 1%;
+
 }
 header h1{
 	font-variant: small-caps;
-	color:#ffffff;
-	background: rgba(0,0,0,0);
+	color:white;
 }
 nav a{
 	display: inline-block;
