@@ -12,6 +12,7 @@ header{
 header h1{
 	font-variant: small-caps;
 	color:#ffffff;
+	background: rgba(0,0,0,0);
 }
 nav a{
 	display: inline-block;
